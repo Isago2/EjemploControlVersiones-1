@@ -17,7 +17,7 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r }
 AreaCirculo <- function(r) pi * r^2
 
-r <- 5
+r <- 10
 AreaCirculo(r)
 ```
 
